@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">funapp</string>
+
+    <string name="QUANTITY">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
